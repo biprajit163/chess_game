@@ -1,2 +1,4 @@
 # chess_game
-making a chess game using React.js
+
+Using Css and Javascript to dynamically make 
+a chess board of size 8 x 8

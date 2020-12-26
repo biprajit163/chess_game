@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+
+#chessboard {
+    display: grid;
+    grid-template-columns: repeat(8, 25px);
+    grid-template-rows: repeat(8, 25px);
+    gap: 0;
+    justify-content: center;
+    align-content: center;
+}
